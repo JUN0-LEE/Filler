@@ -1,6 +1,6 @@
 # Filler
 
-![Alt Text](./filler.gif)
+![An image will show up please wait](./filler.gif)
 
 (👆 gif image)
 
